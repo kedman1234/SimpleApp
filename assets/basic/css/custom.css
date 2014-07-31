@@ -1,0 +1,119 @@
+/* reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0px;padding: 0px;border: 0;}
+a{text-decoration:none;color:#222;} 
+img{border:0px;}
+/*.clearfix{clear:both;height:0px;line-height:0px;visibility:hidden;}*/
+html, body {background-color: #fff; color:#000; font-size:12px;font-family:"Arial",Helvetica,verdana, sans-serif;}
+#wrapper{width:100%;height:100%;overflow-x:hidden;}
+.header{width:100%;background-color:#CB293E;color:#fff;height:12%;}
+.logo{text-align:center;}
+.logo-image{margin-top:5px;width:120px;}
+.navbar{width:100%;background-color:#2d102c;font-size:9px;font-weight:bold;padding:5px 0;text-transform:uppercase;text-align:center;}
+.navbar a{color:#fff;}
+/*.navbar a.last{border-left:1px solid #ccc;}*/
+.container{height:100%;}
+.featured{height: 30px;padding: 2px 0 2px; 0;text-align: center;}
+.catheader{width:100%;background-color:#530030;padding:6px 0px 6px 3px;font-size:12px;font-weight:bold;color:#fff;}
+.catheader p{margin:2px 0 2px 0;}
+.catheader a{color:#fff;}
+.view-more a{text-decoration:underline;font-size: 12px;}
+.main-header{background: #000;font-weight:bold;font-size:12px;} 
+.main-header{color:#fff;}
+.cat-art{display:block;padding:2px 2px 0 2px;}
+.cat-art p{margin: 5px 0px 0px 0px;padding: 0px 0px 4px 0px;font-size:12px;}
+.common-border{border-bottom: 1px solid #ccc;}
+.td-padding{padding:4px 2px 2px 2px;}
+.second-tdpadding{padding:4px 2px 2px 7px}
+.header-fix{width:100%;font-size:14px;padding:9px 0px 8px 7px;}
+.footer{clear:both;border-top:1px solid #ccc;padding:10px 5px;text-align:left;font-size:9px;}
+.footer ul{margin:5px 0!important}
+.nav-footer li{list-style-type:none;padding:6px 2px 6px 2px;}
+.footer .nav-footer li{display:inline;}
+hr{border-color:#ccc;margin:5px 0;}
+.nav-footer{margin:0 0 7px 0;}
+.nav-footer span{color:#000;margin:2px 0;}
+.last-right{border-right:0px !important;padding-right:0px !important;}
+span{font-weight:bold;font-size:12px;color:#0090FF;}
+p span.toll-no{font-size:14px;}
+.cat-art span{color:#000;font-size:12px;margin-right:3px;}.input-txt{margin-top:5px;padding:3px;width:90px;height:20px;}.input-btn{margin:1px 0 0 0;padding:4px;}
+h1{color:#000;margin:2px 0 4px 0;}h4{margin:3px 0 3px 0}
+.cat-art .last-border{border-bottom:none !important;}
+a.slidebtn{text-decoration:underline;}
+.downloadbtn{text-align:center;font-size:9px;text-decoration:underline;margin:3px 0px 10px 0px;font-weight:bold;}
+fieldset legend{border-color:red !important;}
+.profilemargin{margin:5px 0;}.inputtxt{text-align:center;}
+.profilemargin a{text-decoration:underline;}
+.profilemargin p{margin:4px 0px;}
+.profilemargin p span{margin:4px 0px;color:#000}
+.cat-art p.viewprofile{font-size:9px;font-weight:bold;text-decoration:underline;}
+.slidetd td{border:none;} img.imgwidth{width:100%;}
+p.dttime{font-size:9px;}
+.comonimg{width:100%;}
+div.center-align{text-align:center;}
+.menu table{text-align:center;border-collapse:collapse;color:#fff;}
+.menu td{border-bottom:1px solid #fff;}
+.menulist{background-color:#2d102c;padding:4px 3px 4px 3px;font-weight:bold;}.menulist a{color:#fff;}
+.menualign{vertical-align: middle;padding:5px 3px 5px 0px;}
+.askdoctor .submit-padding{padding: 2px;background-color: #000;color: #FFF;border: 1px solid #000;margin-left: 2px;cursor: pointer;}
+.askdoctor textarea{width:99%}
+.image-padding{padding:5px 3px 5px 0px ;} input.submit-padding{padding:4px;}
+.nonsubscription .catheader{background-color:#530030;}
+.nonsubscription .td-padding{padding:1px 2px 2px 2px;text-align:left;font-size:14px;font-weight:bold;color:#F00;}
+.nonsubscription .banner-image{width:100%;margin-top:5px;}
+.nonsubscription .categories{padding:3px 2px 2px 2px;background-color:#2D102C;}
+.nonsubscription .subscription a{text-decoration:underline;font-weight:bold;color:#F00;}
+.nonsubscription .ns-navbar{font-size:9px;font-weight:bold;padding:5px 1px;text-transform:uppercase;text-align:center;}
+.nonsubscription .ns-navbar li{display:inline;margin:2px;}
+.nonsubscription .ns-navbar a{color:#000;padding:0 2px 0 2px;margin:2px 0;}
+.nonsubscription td a{color:#fff;font-weight:bold}
+.nonsubscription .ns-navbar span{color:#000;}
+.nonsubscription td{width:50%;}
+.unsubscribe{width:100%;background-color:#E5E5E5;padding:3px 2px 3px 6px;font-size:12px;}
+#payment-modal .pm-money{font-size:16px;}
+.doc-landing .doctor-speciality{margin:5px;}
+.doc-landing .doctor-speciality select{width:100%;font-size:12px;font-weight:bold;padding:3px 3px 3px 3px;}
+.thyrocare .thyro-catheader {width:100%;background-color:#C40001 ;padding:6px 0px 6px 6px;font-size:12px;font-weight:bold;color:#fff;}
+.thyrocare .cat-art{display: block;padding: 2px 0 0 2px;}
+.thyrocare .cat-img img{width:100%;}
+.thyrocare .cat-art h4{margin:5px 0 5px 2px;}
+.thyrocare table td{padding:3px 5px 3px 3px;}
+.thyrocare form input{margin:3px 0 3px 0;}
+.thyrocare span{text-align:center;margin:3px 0 3px 0;}
+.thyrocare td .bullet{margin-right: 3px;font-weight:bold; font-size:15px;}
+.thyrocare .cat-img{display:block;padding:2px 2px 0 2px;}
+.thyrocare form input{padding:3px;}
+.thyrocare .catheader{width:100%;background-color:#CCCCCC;padding:6px 0 6px 0;font-size:12px;font-weight:bold;color:#000;}
+.menu-cat-art{display:block;padding:2px 2px 0 2px;}
+.news-main p small,.news-detail p small{color:#9a9a9a;}
+.news-main td a{color:#2a69a0;}
+.news-main td{padding:4px;}
+td.button-previous {border-right:1px solid #fff;}
+.news-main table span{color:#2a69a0;}
+.news-main table {border-collapse:collapse; text-align:center;margin-top:6px;}
+.doctorspeciality a{text-decoration:underline;}
+.user-profile .common-border-hide{ display: none;} 
+.user-profile p small{color:#9a9a9a;}
+.questiondetails .back-nav a{ background-color: #000;text-align: center;color:#fff;padding:3px;}
+.questiondetails p.back-nav{margin-top:7px;}  
+.freezone .freezoneimg{width:100%;}
+.success-message{background-color:#DFF0D8;padding:4px;font-size:14px;}
+.doctorprofile .askquestion{padding: 2px;background-color: #000;color: #FFF;border: 1px solid #000;margin: 2px 2px 2px 0;cursor: pointer;}
+.myquestion-cat-art{display:block;padding:2px 2px 0 2px;}
+.myquestion-cat-art p{margin: 5px 0px 0px 1px;padding: 0px 0px 4px 0px;font-size:12px;}
+.confirm-unsubscription .confirmation a{color:#2A69A0;padding:3px;text-decoration:underline;}
+.confirm-unsubscription .confirmation{text-align:center;}
+.slideshowdetail .catheader span{margin-left:3px;}
+.slideshowdetail table  td{padding:3px 2px 3px 2px;}
+.slideshowdetail .navbutton{text-align:right;}
+.slideshowdetail table a{text-decoration:underline;}
+.slideshowdetail .bottomtable{margin-bottom:3px;}
+.login .content{width:70%;margin:0 auto;}
+.askdoctor label,.login label{font-weight:bold;}
+.login input{width:100%;padding:3px;}
+.login .cat-art p{margin: 5px 0px 0px 0px;padding: 0px 0px 4px 0px;font-size:12px;}
+.login .warning {background-color:#F2DEDE;font-weight:bold;color:#606060;}
+.login .newaccount a{color:#428BCA;font-weight:bold;}
+.register .content{width:50%;margin:0 auto;}
+.register label{font-weight:bold;}
+.register input{width:100%;padding:3px;}
+.register p strong{color:#428BCA;}

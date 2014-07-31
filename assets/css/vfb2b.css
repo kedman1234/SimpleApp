@@ -1,0 +1,24 @@
+.logo-full{margin-top:0px;}
+.logo-full a{background: transparent url('../images/vflogo-350x45.png') no-repeat top center; }
+.navbar{background:#fff;}
+.section-header{background:#e60000;}
+.category-header a, .header-right-icon .doctor-toggle .icon-chat:before{color:#818181 !important;}
+.news-block .category-header a{color:#fff !important;}
+.navbar-toggle .icon-bar{background: #818181;}
+
+/* ~~~~~ Nav Menu Appearance ~~~~~ */
+.navmenu{background-color:#82786f;}
+.navmenu .header{background-color:#5b544d;}
+.navmenu li{border-top:1px solid #9a928b;border-bottom:1px solid #80766d;}
+.navmenu a:hover, .navmenu .active a{background-color:#7a644f !important;}
+.navmenu span{color:#aea79f !important;}
+.caticons .cat-freezone{background-color: #412339;} .caticons .cat-freezone a{color: #fecb00 !important;padding-left:20px;}
+
+.navmenu-brand{background-color:#6f665e;border-top:1px solid #9a928b;}
+.navmenu-brand .col-xs-4{color:#fff;border-right:1px solid #80766d;}
+
+.userbar{background-color:#756c64;border-bottom:1px solid #736a62;}
+
+.bg-social{margin:10px 0px 15px 0px;}
+.doctorlanding .doctornav{background-color:#c40001;}
+.chatpage #screen table td.success{background-color:#ececec;}

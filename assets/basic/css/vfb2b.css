@@ -1,0 +1,9 @@
+.header{background-color:#fff;}
+.navbar{background-color:#E60000;}
+.catheader{background-color:#C40001;color:#ffffff;}
+.main-header{background-color:#CCCCCC;color:#000000}
+.menulist{background-color: #82786F;}
+.dnt .catheader {background-color: #CCC !important;color: #000 !important;}
+.dnt .catheader a {color: #000 !important;}
+.dnt .main-header {background-color: #C40001 !important;color: #FFF !important;}
+.payment-modal .catheader{background-color:#C40001;}
