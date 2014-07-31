@@ -1,0 +1,21 @@
+<!DOCTYOE HTML>
+<html>
+<head>
+	<title>Simple Application</title>
+	
+</head>
+<body>
+	<button id="btnDt">New Date</button>
+	<button id="btnClr">Clear</button>
+	<div id="results"></div>
+	<script src="js/simple.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$("#btnDt").click(function(){
+			Simple.DoIt($("#results"));
+		});
+		$("#btnClr").click(function(){
+			$("#results").html('');
+		});
+	</script>
+</body>
+</html>
