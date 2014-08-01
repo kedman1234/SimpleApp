@@ -1,0 +1,7 @@
+c:\Program Files\Java\jdk1.8.0_11\bin
+
+
+
+C:\Users\kedar\AppData\Roaming\npm;
+c:\Program Files\Java\jdk1.8.0_11\bin;
+C:\xampp\apache\bin
